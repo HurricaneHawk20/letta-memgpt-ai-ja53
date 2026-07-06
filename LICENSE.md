@@ -1,4 +1,4 @@
-# 
+# Leve Letta (MemGPT) scripts. Com sincronização em nuvem e suporte multilíngue — otimizado para máximo desempenho e eficiência.
 
 
 
